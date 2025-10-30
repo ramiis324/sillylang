@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='enchant_lang',
+    name='sillylang',
     version='0.1.0',
     packages=find_packages(),
-    description='Write Python code in Minecraft Enchantment Table language.',
-    author='YOUR NAME',
-    url='https://github.com/YOURUSERNAME/enchant_lang',
+    description='Write Python code in a different way.',
+    author='ramiis324',
+    url='https://github.com/ramiis324/sillylang',
     python_requires='>=3.7',
 )
