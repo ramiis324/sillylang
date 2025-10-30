@@ -1,0 +1,12 @@
+from .core import run_translated
+
+LANG_MAP = {
+    "ᔑ": "for",
+    "ʖ": "if",
+    "ᓵ": "else",
+    "↸": "print",
+    "⎓": "def",
+    "⊣": "return",
+}
+
+run_translated(LANG_MAP)
